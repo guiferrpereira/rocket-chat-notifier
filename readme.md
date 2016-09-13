@@ -1,7 +1,7 @@
 A simple wrapper to send notifications to [Rocket.Chat](https://rocket.chat/) webhooks.
 
 [![Build Status](https://travis-ci.org/thiagofelix/rocket-chat-notifier.svg?branch=master)](https://travis-ci.org/thiagofelix/rocket-chat-notifier)
-[![Code Climate](https://codeclimate.com/github/thiagofelix/rocket-chat-notifier.svg)](https://codeclimate.com/github/thiagofelix/rocket-chat-notifier)
+[![Code Climate](https://codeclimate.com/github/thiagofelix/rocket-chat-notifier/badges/gpa.svg)](https://codeclimate.com/github/thiagofelix/rocket-chat-notifier)
 
 
 ## Example
